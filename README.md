@@ -39,7 +39,3 @@ Data Collection, Cleaning, and Exploration of Indian Premier League (IPL) cricke
 
 ## Future project phases
 Regression, classification, clustering, and pattern mining may be developed in later deliverables. No models were built for Deliverable 1.
-
-## Visualizations
-Screenshots are saved to the `screenshots/` directory when the notebook is executed.
-
